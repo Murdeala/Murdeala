@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Murdeala
 - 👀 I’m interested in AI,Game Dev
 - 🌱 I’m currently learning C,.Net,Game Dev
-- 💞️ I’m looking to collaborate on AI,Js,Java,
+- 💞️ I’m looking to collaborate on AI,Js,Java,Python
 - 📫 How to reach me Murdeala#8222
 
 <!---
