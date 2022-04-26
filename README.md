@@ -9,6 +9,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 <a href="http://clipart-library.com/clip-art/python-logo-transparent-5.htm"><img src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-5.png" width="40" height="40" /></a>
+<a title="www.python.org, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg"><img width="64" alt="Python-logo-notext" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/64px-Python-logo-notext.svg.png"></a>
 
 <!---
 Murdeala/Murdeala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
