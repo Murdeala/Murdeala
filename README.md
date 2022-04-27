@@ -8,8 +8,8 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
-<a href="http://clipart-library.com/clip-art/python-logo-transparent-5.htm"><img src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-5.png" width="40" height="40" /></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murdeala&show_icons=true&theme=radical)
+<a href="http://clipart-library.com/clip-art/python-logo-transparent-5.htm"><img src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-5.png" width="40" height="40" /></a><br>
+![Murdeala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murdeala&show_icons=true&theme=radical)
 
 
 <!---
