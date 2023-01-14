@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Murdeala
+- 👋 Hi, I’m @Niko
 - 👀 I’m interested in AI,Game Dev,
 - 🌱 I’m currently learning C,.Net,Game Dev,Pixelart
 - 💞️ I’m looking to collaborate on HTML,CSS,Js,Java,Python
