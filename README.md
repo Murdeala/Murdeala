@@ -8,6 +8,17 @@
  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <br>
+⚡ GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rafi0101&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi0101&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafi0101&theme=gruvbox" />  
+<a href="https://github.com/rafi0101/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
+<a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Stundenplan&theme=gruvbox""></a>
+<a href="https://github.com/rafi0101/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
+<a href="https://github.com/rafi0101/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=logstash-pipelines&theme=gruvbox""></a>  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101)
 
 
 
