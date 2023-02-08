@@ -12,7 +12,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Murdeala&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murdeala&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Murdeala&theme=gruvbox" />  
+ 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Murdeala.Murdeala)
 
